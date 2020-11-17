@@ -1,1 +1,0 @@
-# teguhsam.github.io
