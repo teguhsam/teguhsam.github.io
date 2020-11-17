@@ -1,3 +1,3 @@
 # teguhsam.github.io
 
-Hello world
+This is a repository for my website. 
